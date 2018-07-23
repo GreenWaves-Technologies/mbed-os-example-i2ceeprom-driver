@@ -1,7 +1,7 @@
 # Getting Started With The mbed-os Example for the I2C EEPROM Block Device 
 
 This is the mbed-os example for the I2CEEBlockDevice driver. 
-See the [i2ceeprom-driver](https://github.com/armmbed/i2ceeprom-driver) repository for more information.
+See the [i2cee-driver](https://github.com/GreenWaves-Technologies/i2cee-driver) repository for more information.
 
 This guide outlines the steps to get the I2C EEPROM part working on an mbed OS platform fitted with the CI Test Shield.
 
@@ -18,7 +18,7 @@ This document uses the K64F as an example. Simply change the relevant options (e
 From the command-line, import the example:
 
 ```
-mbed import mbed-os-example-i2ceeprom-driver
+mbed import https://github.com/GreenWaves-Technologies/mbed-os-example-spiflash-driver
 ```
 
 You should see: 

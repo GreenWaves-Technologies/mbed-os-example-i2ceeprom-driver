@@ -14,6 +14,11 @@
  * limitations under the License.
  */
 
+/*
+  Modifications copyright (C) 2018 GreenWaves Technologies
+  - Change the i2cee pin mapping for GAP8
+*/
+
 // Here's an example using a M24M02-DRMN6 on GAP8
 #include "mbed.h"
 #include "I2CEEBlockDevice.h"
